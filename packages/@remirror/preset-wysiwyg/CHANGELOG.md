@@ -1,5 +1,39 @@
 # @remirror/preset-wysiwyg
 
+## 1.0.0-next.61
+
+> 2021-01-14
+
+### Patch Changes
+
+- Forced update in pre-release mode.
+
+- Updated dependencies []:
+  - @remirror/core@1.0.0-next.61
+  - @remirror/extension-bidi@1.0.0-next.61
+  - @remirror/extension-blockquote@1.0.0-next.61
+  - @remirror/extension-bold@1.0.0-next.61
+  - @remirror/extension-code@1.0.0-next.61
+  - @remirror/extension-code-block@1.0.0-next.61
+  - @remirror/extension-drop-cursor@1.0.0-next.61
+  - @remirror/extension-epic-mode@1.0.0-next.61
+  - @remirror/extension-gap-cursor@1.0.0-next.61
+  - @remirror/extension-hard-break@1.0.0-next.61
+  - @remirror/extension-heading@1.0.0-next.61
+  - @remirror/extension-horizontal-rule@1.0.0-next.61
+  - @remirror/extension-image@1.0.0-next.61
+  - @remirror/extension-italic@1.0.0-next.61
+  - @remirror/extension-link@1.0.0-next.61
+  - @remirror/extension-search@1.0.0-next.61
+  - @remirror/extension-strike@1.0.0-next.61
+  - @remirror/extension-trailing-node@1.0.0-next.61
+  - @remirror/extension-underline@1.0.0-next.61
+  - @remirror/pm@1.0.0-next.61
+  - @remirror/preset-core@1.0.0-next.61
+  - @remirror/preset-embed@1.0.0-next.61
+  - @remirror/preset-list@1.0.0-next.61
+  - @remirror/preset-table@1.0.0-next.61
+
 ## 1.0.0-next.60
 
 > 2020-12-17
